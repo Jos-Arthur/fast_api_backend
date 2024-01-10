@@ -4,7 +4,7 @@
 
 - [ ] Creation de l'environnement virtuel avec anaconda <br />
   
-  ** conda create --name staes_env python=3.9 ** <br/>
+  ### conda create --name fast_env python=3.9 <br/>
 
 - [ ] Installation des package pour le bon fonctionnement de l'application <br /> 
       1- Se rendre dans le repertoire fast_api_backen <br />
