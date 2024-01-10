@@ -14,3 +14,5 @@
 
 - [ ] SQLACHEMY for database ORM.
 - [ ] Make CRUD for person administration.
+
+## After running : 127.0.0.1:8000/docs
